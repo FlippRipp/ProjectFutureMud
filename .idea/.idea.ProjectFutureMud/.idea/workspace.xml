@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e42cdc1-69fd-4c72-93a8-fa56ef21185d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/World/Map/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/PlayerInformation/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorAppearance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/ParseText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Persistence/SaveToBinary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/World/Map/Editor/GridEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Actor/Actor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/ILogicTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/RandomDialogAdvanced.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/InformationTags/IInformationTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/LogicTagManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Persistence/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/World/Map/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/FutureMod/JsonTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/ParseText.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Tags/InformationTags/InformationTag.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Tags/InformationTags/IInformationTag.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/persistence/SaveToBinary.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/PlayerInfo/PlayerTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Persistence/SaveToBinary.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Persistence/GameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/PlayerInfo/PlayerAperance.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/PlayerInfo/ActorAperance.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/PlayerInfo/ActorTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/World/Map/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/ILogicTag.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/JsonTest.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/RandomDialogAdvanced.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/LogicTagManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Tags/InformationTags/InformationTagManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/TextParser/TextParser.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Test.txt" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/World/Map/Editor/GridEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/Actor.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorAppearance.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/PlayerInformation/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/World/Map/Grid.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1leFb1w23euMNZftIWB9wMqVXgh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e42cdc1-69fd-4c72-93a8-fa56ef21185d" name="Default Changelist" comment="" />
+      <created>1607949722522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607949722522</updated>
+      <workItem from="1607949752049" duration="12944000" />
+      <workItem from="1608019877569" duration="14582000" />
+      <workItem from="1608110419135" duration="14099000" />
+      <workItem from="1608193607248" duration="4191000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1608120839367">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1608120839367" />
+  </component>
+</project>

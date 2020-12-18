@@ -1,0 +1,1 @@
+['RandomDialogAdvanced'{"dialogs":["hi","hello"],"dialogWeights":[2.0,2.0]}] {playerName} ['RandomDialogAdvanced'{"dialogs":["age","who is"],"dialogWeights":[2.0,2.0]}] {age}
