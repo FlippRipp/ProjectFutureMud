@@ -1,53 +1,45 @@
-﻿using System.Collections.Generic;
-using UnityEngine;
+﻿using System;
+using System.Collections.Generic;
 
-public class ActorTags : MonoBehaviour
+namespace FutureMud.Actor
 {
+    [Serializable]
+    public class ActorTags
+    {
 
-    public static ActorTags instance;
+        public static ActorTags instance;
     
-    public List<string> playerTags = new List<string>();
-
-    private void Awake()
-    {
-        if (!instance)
+        public List<string> playerTags = new List<string>();
+    
+        public void LoadTags()
         {
-            instance = this;
-        }
-        else
-        {
-            Destroy(this);
-        }
-    }
-
-    public void LoadTags()
-    {
         
-    }
+        }
 
-    public void SaveTags()
-    {
+        public void SaveTags()
+        {
         
-    }
-
-    public void AddTag(string tagName)
-    {
-        if (!playerTags.Contains(tagName))
-        {
-            playerTags.Add(tagName);
         }
-    }
 
-    public void RemoveTag(string tagName)
-    {
-        if (playerTags.Contains(tagName))
+        public void AddTag(string tagName)
         {
-            playerTags.Remove(tagName);
+            if (!playerTags.Contains(tagName))
+            {
+                playerTags.Add(tagName);
+            }
         }
-    }
 
-    public bool CheckForTag(string tagName)
-    {
-        return playerTags.Contains(tagName);
+        public void RemoveTag(string tagName)
+        {
+            if (playerTags.Contains(tagName))
+            {
+                playerTags.Remove(tagName);
+            }
+        }
+
+        public bool CheckForTag(string tagName)
+        {
+            return playerTags.Contains(tagName);
+        }
     }
 }

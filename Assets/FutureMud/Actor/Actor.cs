@@ -1,13 +1,14 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using System;
 
-[RequireComponent(typeof(ActorTags), typeof(ActorAppearance))]
-public class Actor : MonoBehaviour
+namespace FutureMud.Actor
 {
-    public ActorTags actorTags;
-    public ActorAppearance actorAppearance;
+    [Serializable]
+    public class Actor
+    {
+        public ActorTags actorTags;
+        public ActorAppearance actorAppearance;
 
-    public string actorIDName;
-    public string actorDisplayName;
+        public string actorIDName;
+        public string actorDisplayName;
+    }
 }

@@ -1,8 +1,20 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using System;
 
-public class ActorAppearance : MonoBehaviour
+namespace FutureMud.Actor
 {
-    
+    [Serializable]
+    public class ActorAppearance
+    {
+        public enum Race
+        {
+            Human
+        }
+
+        public string GetCharacterDescription(string descriptionToGet)
+        {
+            return null;
+        }
+
+        
+    }
 }
