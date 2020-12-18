@@ -1,0 +1,15 @@
+General Logic Tags
+[RandomDialogdvanced]
+[randomDialog]
+[SkillCheck]
+[Button]
+[CheckTag]
+[GetDialogByName]
+[CheckInjuries]
+[TriggerCombat]
+[TriggerEvent]
+[GetCharacterDescription]
+[GetCharacterRace]
+
+Event Tags
+[EndEvent]

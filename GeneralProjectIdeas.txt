@@ -10,7 +10,9 @@ Create a Modding aplication
 		Allow the user to create and edit abillities for the enemy
 		Allow the user to create custom AI Behaviour
 		Allow the user to add and edit triggers for dialog in combat
-
+	Create a character creation tool
+		Allow the user to edit character appearance
+		Allow the user to edit character stats
 
 Create the game
 	
