@@ -1,26 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e42cdc1-69fd-4c72-93a8-fa56ef21185d" name="Default Changelist" comment="" />
+    <list default="true" id="7e42cdc1-69fd-4c72-93a8-fa56ef21185d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectFutureMud/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFutureMud/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectFutureMud/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFutureMud/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectFutureMud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectFutureMud/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FutureMud/Actor/Actor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FutureMud/Actor/Actor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorAppearance.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorAppearance.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorTags.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorTags.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FutureMud/ParseText.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FutureMud/ParseText.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FutureMud/PlayerInformation/Player.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FutureMud/PlayerInformation/Player.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/World/Map/Node.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/PlayerInformation/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorAppearance.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/ParseText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Persistence/SaveToBinary.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/World/Map/Editor/GridEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Actor/Actor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/ILogicTag.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/RandomDialogAdvanced.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/InformationTags/IInformationTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/PlayerInformation/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Actor/Actor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/LogicTagManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Persistence/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/LogicTags/ILogicTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Tags/InformationTags/IInformationTag.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorAppearance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Utility/IWritable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FutureMud/World/Map/Grid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/HumanBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/World/Map/Node.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureMud/World/Map/Editor/GridEditor.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -45,10 +79,16 @@
         <option value="$PROJECT_DIR$/Assets/FutureMud/TextParser/TextParser.cs" />
         <option value="$PROJECT_DIR$/Assets/FutureMud/Test.txt" />
         <option value="$PROJECT_DIR$/Assets/FutureMud/World/Map/Editor/GridEditor.cs" />
-        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/Actor.cs" />
-        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorAppearance.cs" />
         <option value="$PROJECT_DIR$/Assets/FutureMud/PlayerInformation/Player.cs" />
         <option value="$PROJECT_DIR$/Assets/FutureMud/World/Map/Grid.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorTags.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorBody.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/ActorAppearance.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/ActorAppearance/HumanBody.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Actor/Actor.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Utillity/IWritable.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Utility/Writable.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureMud/Utility/IWritable.cs" />
       </list>
     </option>
   </component>
@@ -100,6 +140,7 @@
       <workItem from="1608019877569" duration="14582000" />
       <workItem from="1608110419135" duration="14099000" />
       <workItem from="1608193607248" duration="4191000" />
+      <workItem from="1608294222749" duration="4239000" />
     </task>
     <servers />
   </component>
@@ -108,10 +149,25 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="794" y="236" key="RiderGenerateDialog" timestamp="1608296020385">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="236" key="RiderGenerateDialog/-1920.8.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1608296020385" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1608120839367">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

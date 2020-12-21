@@ -1,0 +1,18 @@
+Create a Modding aplication
+	Create Map Editing tool
+		Allow the user to place nodes and connect them
+		Allow the user to assign events and world dialogs to the nodes
+		Allow the user to choose node type (City, Space, Wilderness, etc.)
+		Allow the user to add icons to the nodes(this is not a must have but a thing I can add later if I have extra time)
+
+	Create combat json files that can be read in to set up a combat senario
+		Allow the user to change basic stats such as health and armour
+		Allow the user to create and edit abillities for the enemy
+		Allow the user to create custom AI Behaviour
+		Allow the user to add and edit triggers for dialog in combat
+	Create a character creation tool
+		Allow the user to edit character appearance
+		Allow the user to edit character stats
+
+Create the game
+	
